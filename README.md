@@ -1,4 +1,4 @@
 # Small try/Responsive-Music-page
-#Component contains
+# Component contains
 # Multiple-Html-css
 # images and songs
